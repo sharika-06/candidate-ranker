@@ -11,7 +11,7 @@ sys.path.append(str(Path(__file__).parent))
 from rank import is_honeypot, get_title_score, get_yoe_score, get_company_score, get_skills_score, get_location_score, get_behavioral_multiplier, generate_reasoning
 
 st.set_page_config(
-    page_title="Zeroth Error | Candidate Discovery & Ranker",
+    page_title="TechieHub | Candidate Discovery & Ranker",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
