@@ -49,7 +49,7 @@ st.markdown("""
         margin-bottom: 1rem;
     }
 </style>
-""", unsafe_style_html=True)
+""", unsafe_allow_html=True)
 
 st.title("🤖 Zeroth Error - Candidate Discovery & Ranker")
 st.subheader("Sandbox App for the Senior AI Engineer — Founding Team role")
