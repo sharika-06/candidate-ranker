@@ -20,7 +20,7 @@ team_members:
 # ============================================================================
 # Code and reproducibility
 # ============================================================================
-github_repo: "https://github.com/placeholder/redrob-candidate-ranker"
+github_repo: "https://github.com/sharika-06/candidate-ranker.git"
 sandbox_link: "https://huggingface.co/spaces/placeholder/redrob-candidate-ranker"
 
 reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
