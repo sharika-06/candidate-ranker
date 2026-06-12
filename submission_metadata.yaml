@@ -8,14 +8,14 @@
 team_name: "AgenticRanker"
 
 primary_contact:
-  name: "Hackathon Participant"
-  email: "participant@example.com"
-  phone: "+91-9999999999"
+  name: "Sharika"
+  email: "sharikasatheesh05@gmail.com"
+  phone: "+91-9400792074"
 
 team_members:
-  - name: "Hackathon Participant"
-    email: "participant@example.com"
-    role: "ML Engineer"
+  - name: "Sharika S"
+    email: "sharikasatheesh05@gmail.com"
+    role: "Final Year Student"
 
 # ============================================================================
 # Code and reproducibility
