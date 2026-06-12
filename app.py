@@ -51,7 +51,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🤖 Zeroth Error - Candidate Discovery & Ranker")
+st.title("🤖 TechieHub - Candidate Discovery & Ranker")
 st.subheader("Sandbox App for the Senior AI Engineer — Founding Team role")
 
 st.markdown("""
